@@ -17,8 +17,6 @@
 https://blogapp-forlecture.vercel.app/
 
 
-## 画像
-![説明画像](docs/画像ファイル1.png)
 
 ## 使用技術
 - フロントエンド：Next.js 15.3
